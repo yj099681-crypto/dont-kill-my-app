@@ -14,8 +14,11 @@ manufacturer: samsung
 - **Android Marshmallow or below**: Smart manager
 
 
-1. [ Android 14 ](#android-14) 
-2. [ Android 13 ](#android-13) 
+1. [ Android 14 ](#android-1
+2.
+3. 
+4. [ Android 13 ](#android-19)
+    
 2. [ Android 11 ](#android-11) <br>
 3. [ Android Pie and 10 ](#android-pie-and-10) <br>
 4. [ Android Oreo and Nougat ](#android-oreo-and-nougat) <br>
